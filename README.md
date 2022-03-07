@@ -1,4 +1,7 @@
-### Hi! How's is it going?👋 I am dhruv kaushik, a student living in Delhi, India.
+<h1 align="center">
+  <b>Hi! How's is it going?👋 </b>
+</h1>
+I am dhruv kaushik, a student living in Delhi, India.
 
 <!--
 **dhruv-kaushikk/dhruv-kaushikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
