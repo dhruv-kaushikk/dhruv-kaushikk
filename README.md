@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
   <p align="center">
-<b>I'm Dhruv Kaushik, Since 2018, I've made a lot of progress with developent(I mainly focus on javascript, python and java).</b>
+<b>I am Dhruv Kaushik.. I've made a lot of progress with development(I mainly focus on javascript, python and java).</b>
 </p> 
 <br/>
   
