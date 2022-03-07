@@ -1,8 +1,15 @@
 <h1 align="center">
-  <b>Hi! How's is it going?👋 </b>
+  <b>Hi! How's is it going <@𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>? <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></b>
 </h1>
-I am dhruv kaushik, a student living in Delhi, India.
-
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-15-blue" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Location-Delhi, India-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+</p>
+  <p align="center">
+I'm Dhruv Kaushik, and I'm a High-schooler.. Since 2018, I've made a lot of progress with developent(I mainly focus on javascript, python and java).
+</p>
 <!--
 **dhruv-kaushikk/dhruv-kaushikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
